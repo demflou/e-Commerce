@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: andhradroid.dev:aFilechooser:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/379768db9735b72076633e5b986944e3/jetified-aFilechooser-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/379768db9735b72076633e5b986944e3/jetified-aFilechooser-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/andhradroid.dev/aFilechooser/1.0.1/1ea286201ae558aa4a091d8aa8ae544f8ed33ffd/aFilechooser-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/andhradroid.dev/aFilechooser/1.0.1/bc237baab6be1f10809077af95c4a884ad869ec6/aFilechooser-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

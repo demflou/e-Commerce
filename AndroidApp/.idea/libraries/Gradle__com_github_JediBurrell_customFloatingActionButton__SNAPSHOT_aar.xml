@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JediBurrell:customFloatingActionButton:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6237aa5105e40e842c9d81982a236f97/jetified-customFloatingActionButton--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6237aa5105e40e842c9d81982a236f97/jetified-customFloatingActionButton--SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JediBurrell/customFloatingActionButton/-SNAPSHOT/e193a7683cd5a0b5149a31c63009abd0035beb1d/customFloatingActionButton--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
